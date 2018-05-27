@@ -1,0 +1,1 @@
+# HELLO! This is my custom modal for Agiledrop dev challenge which is used for showing remaining days to the event.
