@@ -1,0 +1,6 @@
+name: Days To Event Module
+description: Module for showing days to events
+package: Custom
+type: module
+version: 1.0
+core: 8.x

@@ -1,0 +1,3 @@
+services:
+ days_to_event_module.days_remaining:
+   class: Drupal\days_to_event_module\DaysRemaining
